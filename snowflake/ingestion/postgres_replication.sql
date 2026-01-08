@@ -1,0 +1,1 @@
+-- Postgres Connector setup is typically done via Snowsight UI (app). Document outputs/screenshots here.

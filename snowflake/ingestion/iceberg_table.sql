@@ -1,0 +1,1 @@
+-- (Deprecated) See snowflake/ingestion/kafka_pipeline.sql

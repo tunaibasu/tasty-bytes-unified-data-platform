@@ -1,0 +1,1 @@
+-- (Optional) Put your favorite Snowflake validation queries here.

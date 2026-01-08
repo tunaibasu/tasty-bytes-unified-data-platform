@@ -1,0 +1,1 @@
+-- (Optional) Put your Postgres foodtruck schema DDL here.
