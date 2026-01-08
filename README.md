@@ -1,6 +1,6 @@
 # Tasty Bytes – Unified Data Platform (Snowflake + Postgres + Kafka + Iceberg)
 
-This repo contains the end-to-end demo assets used for the **Tasty Bytes Unified Data Platform** interview presentation + live demo:
+This repo contains the end-to-end data engineering assets used for the **Tasty Bytes Unified Data Platform** interview presentation + live demo:
 - Postgres transactional data generation (orders / order_items / optional delivery)
 - Kafka telemetry event producer + validation steps
 - Snowflake ingestion + transformations (Bronze → Silver → Iceberg + Gold Dynamic Tables → KPI Views)
